@@ -86,31 +86,7 @@
          "draworder":"topdown",
          "id":23,
          "name":"Wohnheim",
-         "objects":[
-                {
-                 "gid":322,
-                 "height":320.681179155802,
-                 "id":3,
-                 "name":"",
-                 "rotation":355.285307119468,
-                 "type":"",
-                 "visible":true,
-                 "width":971.156100331656,
-                 "x":2238.41069433944,
-                 "y":952.209694274666
-                }, 
-                {
-                 "gid":322,
-                 "height":313.979786976901,
-                 "id":4,
-                 "name":"",
-                 "rotation":345.745259096022,
-                 "type":"",
-                 "visible":true,
-                 "width":986.651724590008,
-                 "x":2967.01954476926,
-                 "y":1483.12960829706
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -888,7 +864,7 @@
         {
          "columns":1,
          "firstgid":321,
-         "image":"..\/..\/Pictures\/campus.png",
+         "image":"campus.png",
          "imageheight":626,
          "imagewidth":868,
          "margin":0,
@@ -897,19 +873,6 @@
          "tilecount":1,
          "tileheight":626,
          "tilewidth":868
-        }, 
-        {
-         "columns":1,
-         "firstgid":322,
-         "image":"..\/wohnheim.png",
-         "imageheight":59,
-         "imagewidth":179,
-         "margin":0,
-         "name":"Wohnheim",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":59,
-         "tilewidth":179
         }],
  "tilewidth":32,
  "type":"map",
