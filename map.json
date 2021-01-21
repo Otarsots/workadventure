@@ -150,7 +150,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"Till Paradiso - Be Part of My Universe (TP 024).mp3"
+                 "value":"song.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
